@@ -1,4 +1,4 @@
-# Hi there, I'm H.G.A.Y. Shyamal
+# Hi there👋, I'm H.G.A.Y. Shyamal
 
 🎓 **4th-Year Software Engineering Undergraduate**  
 📍 **Sri Lanka Technological Campus (SLTC), Sri Lanka**  
