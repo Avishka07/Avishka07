@@ -56,12 +56,13 @@ I'm a passionate and detail-oriented Software QA Engineer in the making, committ
 ---
 
 ## 🔧 Technologies & Skills
-- **QA Methodologies:** 
-  - Agile
-  - Waterfall
+- **QA Expertise:** 
+  - Agile and Waterfall Methadalogies
+  - Test Techniques
   - Defect Tracking
   - Bug Reporting
-  - Test Case Design
+  - Test Case Designing,Writing,Excution
+  - Manual and Automation Testing
 - **Tools:** 
   - 🤖 **Automation Testing:** Selenium  
   - 🔗 **API Testing:** Postman  
@@ -69,6 +70,7 @@ I'm a passionate and detail-oriented Software QA Engineer in the making, committ
   - 💻 **IDEs:** Eclipse, IntelliJ IDEA, Arduino IDE, VS Code  
   - 🗄️ **Databases:** MySQL, Neo4j, PostgreSQL  
   - 🎨 **UI Design:** Figma
+  - 💻 **Project Management:** Jira
 - **Programming Languages:** 
   - Java
   - Python
@@ -184,5 +186,42 @@ I'm a passionate and detail-oriented Software QA Engineer in the making, committ
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="CSS" title="CSS" width="48"/>
+</a>
+<a href="https://unity.com/">
+    <img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png" alt="Unity" title="Unity" width="48"/>
+</a>
+<a href="https://isocpp.org/">
+    <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002ce321b529d375e07_2e261bcd.png" alt="C++" title="C++" width="48"/>
+</a>
+<a href="https://www.figma.com/">
+    <img src="https://www.kindpng.com/picc/m/81-814934_figma-logo-png-transparent-png.png" alt="Figma" title="Figma" width="48"/>
+</a>
+<a href="https://www.apachefriends.org/index.html">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" alt="XAMPP" title="XAMPP" width="48"/>
+</a>
+<a href="http://domoticx.com/mechanica-software-gcode-sender/">
+    <img src="https://domoticx.com/wp-content/uploads/2015/01/g-code-logo.png" alt="Gcode Sender" title="Gcode Sender" width="48"/>
+</a>
+<a href="https://integralplm.com/vuforia-engine/vuforia-engine-logo/">
+    <img src="https://integralplm.com/wp-content/uploads/2021/12/vuforia-engine-logo.png" alt="Vuforia Engine" title="Vuforia Engine" width="48"/>
+</a>
+<a href="https://www.iconpacks.net/free-icon/rest-api-blue-logo-22098.html">
+    <img src="https://www.iconpacks.net/icons/free-icons-6/free-rest-api-blue-logo-icon-22098-thumb.png" alt="REST API" title="REST API" width="48"/>
+</a>
+<a href="https://www.softwaretestingo.com/manual-test-cases-example/">
+    <img src="https://www.softwaretestingo.com/wp-content/uploads/2023/03/Manual-Testing.png" alt="Manual Testing" title="Manual Testing" width="100"/>
+</a>
+<a href="https://codebrahma.com/automation-testing-framework-development-tips-for-web-apps/">
+    <img src="https://codebrahma.com/static/77a4f489b79f7025ef22f38f9424317f/test-automation.png" alt="Automation Testing" title="Automation Testing" width="100"/>
+</a>
+<a href="https://1000logos.net/javascript-logo/">
+    <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png" alt="JavaScript" title="JavaScript" width="100"/>
+</a>
+<a href="https://www.pngitem.com/middle/hThohm_c-programming-language-logo-hd-png-download/">
+    <img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" alt="C Programming" title="C Programming" width="100"/>
+</a>
+
 </p>
 
