@@ -156,30 +156,33 @@ I'm a passionate and detail-oriented Software QA Engineer in the making, committ
 
 ## 🛠️ Technologies
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium"/>
-  <img src="https://img.icons8.com/color/48/000000/jmeter.png" alt="JMeter"/>
-  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman"/>
-  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/>
-  <img src="https://img.icons8.com/color/48/000000/cisco.png" alt="Cisco"/>
-  <img src="https://img.icons8.com/color/48/000000/ccna.png" alt="CCNA"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/neo4j.png" alt="Neo4j"/>
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/laragon.png" alt="Laragon"/>
-  <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel"/>
-  <img src="https://img.icons8.com/color/48/000000/oauth.png" alt="OAuth"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
-  <img src="https://img.icons8.com/color/48/000000/html
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" title="Selenium" width="48"/>
+  <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" title="JMeter" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" title="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" title="Jira"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse" title="Eclipse"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" title="Arduino"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+  <a href="https://neo4j.com/">
+  <img src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/20140926224303/neo4j_logo-facebook.png" alt="Neo4j" title="Neo4j" width="48"/>
+  </a>
+  <a href="https://www.postgresql.org/"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" title="PostgreSQL" width="48"/></a>
+  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" title="Flask"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
+  <a href="https://laravel.com/">
+  <img src="https://logospng.org/download/laravel/logo-laravel-1024.png" alt="Laravel" title="Laravel" width="48"/>
+  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" alt="OAuth" title="OAuth" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
+</p>
+
